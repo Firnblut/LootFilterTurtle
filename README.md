@@ -20,7 +20,7 @@ Commands:
 
 Unknown items: This database doesn't include items without vendor value (which are questitems most of the time) and doesn't include custom turtle-wow items. If you come upon an unknown item, it's itemID and name will be saved in savedVariables\lootfilter112.lua and you can use the entry to add it to database.lua. Just look up the price and maximum stacksize in turtle-wow's database and add it to database lua as: [itemID]="price,maxstack"
 
-Installation: As with all addons, download 
+Installation: As with all addons, download the zip-file 
 
 
 This addon is not currently in development. There will be no more features, bugfixing, etc. Use at your own risk.
