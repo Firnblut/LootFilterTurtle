@@ -23,4 +23,4 @@ Unknown items: This database doesn't include items without vendor value (which a
 Installation: As with all addons, download the zip-file (green "< > Data"-Button), extract all to lootfilter112 and put this folger into your interface\addons folder in your WoW directory.
 
 
-This addon is not currently in development. There will be no more features, bugfixing, etc. Use at your own risk.
+This addon is not currently in development. There will be no more features, bugfixing, troubleshooting, etc. Use at your own risk.
