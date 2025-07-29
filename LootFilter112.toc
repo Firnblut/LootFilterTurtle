@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: LootFilter 1.12
+## Author: DeinName
+## Version: 1.1
+## Notes: Automatisches Löschen/Verkaufen von Items
+## SavedVariables: LootFilterSettings
+
+database.lua
+LootFilter112.lua
+LootFilterUI.lua
